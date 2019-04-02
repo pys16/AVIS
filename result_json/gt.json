@@ -1,0 +1,12 @@
+{
+    "accordion_1_saxophone_1.mp4": [
+        {
+            "audio": "accordion_1_saxophone_1_gt1.wav",
+            "position": 0
+        },
+        {
+            "audio": "accordion_1_saxophone_1_gt2.wav",
+            "position": 1
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+./Working/ImgSeg/accordion_1_saxophone_1/p1.jpg
+./Working/ImgSeg/accordion_1_saxophone_1/p2.jpg
+./Exception/1.jpg
+./Exception/2.jpg
+./Exception/3.jpg
+./Exception/4.jpg
+./Exception/5.jpg
+./Exception/6.jpg
+./Exception/7.jpg
+./Exception/8.jpg
